@@ -3,7 +3,7 @@ layout: post
 title: "试运行的开始"
 description: ""
 category: Update
-tags: [Update]
+tags: [News]
 ---
 {% include JB/setup %}
 
