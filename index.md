@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 欢迎来到UrbanDreamGoodies！
+title: 欢迎来到UrbanDream！
 tagline: 神秘盒子带来美妙的惊喜
 ---
 {% include JB/setup %}
